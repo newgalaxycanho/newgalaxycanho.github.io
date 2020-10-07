@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+<a href="https://canhonewgalaxy.vn/">Mua Căn hộ New Galaxy</a> liền kề Làng Đại học Quốc gia TPHCM, tọa lạc tại mặt tiền đường Thống Nhất, thành phố Dĩ An, Bình Dương. Cực kì thuận tiện để kết nối với những tuyến đường quan trọng như Phạm Văn Đồng, quốc lộ 1K, quốc lộ 1A và Xa lộ Hà Nội.
 
-You can use the [editor on GitHub](https://github.com/newgalaxycanho/newgalaxycanho.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<br>Chỉ từ 1,6 tỷ/1 căn. Thanh toán từ 15% (240 triệu)
+<br>Vị trí: Đường Thống Nhất, Phường Đông Hòa, Thành phố Dĩ An, Tỉnh Bình Dương.
+<br>Loại căn hộ: 1 PN, 1PN+, 2 PN, 3PN
+<br>Số Block: 06
+<br>Số tầng: 19 tầng
+<br>Chiết khấu lên đến 22% (Từ 5-22%)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>Thông tin về NEW GALAXY:
+<br>Địa chỉ: Số 53, Trần Quốc Thảo, Phường 7, Quận 3, TP. Hồ Chí Minh
+<br>SĐT: <a href="0877079789">0877079789</a>
 
-### Markdown
+<br>Email: <a href="canhonewgalaxy.vn@gmail.com">canhonewgalaxy.vn@gmail.com</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/newgalaxycanho/newgalaxycanho.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<br>Mạng xã hội:
+<br>https://canhonewgalaxy.bcz.com/
+<br>https://tapas.io/canhonewgalaxy
+<br>https://www.mixcloud.com/newgalaxycanho/
+<br>https://newgalaxycanho.business.site/posts/4266668819498303291
+<br>https://canhonewgalaxy.hpage.com/
